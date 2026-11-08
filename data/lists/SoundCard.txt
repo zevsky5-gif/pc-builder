@@ -1,0 +1,84 @@
+Creative Labs Sound Blaster X-Fi Xtreme Audio PCIe x1 7.1 Channel 24-bit 96 kHz
+Creative Labs Recon3D Fatal1ty Champion 24-bit 96 kHz PCIe x1 5.1 Channel
+Encore ENM232-6VIA 24-bit 96 kHz Sound Card
+Creative Labs Sound Blaster X-Fi Xtreme Audio PCI 7.1 Channel 24-bit 96 kHz
+Asus Xonar Phoebus PCIe x1 7.1 Channel 24-bit 96 kHz
+Diamond XtremeSound XS51 PCI 16-bit 48 kHz 5.1 Channel
+SIIG IC-510111-S2 PCIe 5.1 Channel 24-bit 96 kHz
+Creative Labs Sound Blaster AE-9 PCIe x1 7.1 Channel 32-bit 384 kHz
+HT Omega FENIX PCIe x1 7.1 Channel 24-bit 192 kHz
+Asus Xonar DSX 24-bit 192 kHz PCIe x1 7.1 Channel
+ASUS Xonar AE 24-bit 192 kHz PCIe 7.1 Channel
+Asus Xonar Essence STX PCIe x1 7.1 Channel 24-bit 192 kHz
+Asus Xonar SE PCIe x1 5.1 Channel 24-bit 192 kHz
+Creative Labs Recon3D Fatal1ty Professional PCIe x1 5.1 Channel 24-bit 96 kHz
+Diamond XtremeSound XS51 16-bit 48 kHz Sound Card
+Creative Labs Sound Blaster Audigy2 ZS PCI 5.1 Channel 24-bit 192 kHz
+HT Omega CLARO II 24-bit 192 kHz Sound Card
+Creative Labs Sound Blaster X-Fi PCI 7.1 Channel 24-bit 192 kHz
+Encore ENM232-6VIA PCI 5.1 Channel 24-bit 96 kHz
+Turtle Beach TBS-3429 PCI 5.1 Channel 24-bit 48 kHz
+Creative Labs 70SB157000000 Sound Card
+Rosewill RC-703 PCIe x1 7.1 Channel 44.1 kHz
+Creative Labs 70SB135A00002 PCIe x1 5.1 Channel 24-bit 96 kHz
+Asus Xonar DS 24-bit 192 kHz PCI 7.1 Channel
+SIIG DP SoundWave PCIe x1 5.1 Channel
+StarTech PCISOUND4LP PCI 4.0 Channel 16-bit 48 kHz
+Creative Labs 70SB157000000 Sound Card
+Asus STRIX RAID PRO PCIe 7.1 Channel 24-bit 192 kHz
+Asus Xonar DG PCI 5.1 Channel 24-bit 96 kHz
+PowerColor DEVIL HDX PCIe x1 7.1 Channel 192 kHz
+PPA International 1431v PCI 5.1 Channel
+SIIG IC-710012-S2 PCI 7.1 Channel 24-bit 96 kHz
+ASUS Xonar DGX 24-bit 96 kHz PCIe x1 5.1 Channel
+Asus STRIX SOAR PCIe x1 7.1 Channel 24-bit 192 kHz
+Creative Labs Sound BlasterX AE-5 Pure 32-bit 384 kHz PCIe x1 5.1 Channel
+Creative Labs Sound BlasterX AE-5 Plus PCIe x1 5.1 Channel 32-bit 384 kHz
+Asus Xonar D1 PCI 7.1 Channel 24-bit 192 kHz
+Creative Labs Sound Blaster Zx 24-bit 192 kHz Sound Card
+ASUS Xonar DS PCI 7.1 Channel 24-bit 192 kHz
+Rosewill RC-701 PCI 5.1 Channel
+HT Omega Claro Halo PCI 5.1 Channel 24-bit 192 kHz
+Encore ENM232-8VIA PCI 7.1 Channel 24-bit 96 kHz
+SIIG IC-510012-S2 PCI 5.1 Channel 16-bit
+Creative Labs Sound Blaster Audigy Rx OEM PCIe x1 7.1 Channel 24-bit 192 kHz
+HT Omega STRIKER PCI 7.1 Channel
+HT Omega Claro Halo XT PCI 7.1 Channel 24-bit 192 kHz
+Diamond XtremeSound XS71 16-bit 96 kHz PCI 7.1 Channel
+Asus Essence STX II PCIe x1 2.0 Channel 24-bit 192 kHz
+Creative Labs Sound Blaster Zx 24-bit 192 kHz PCIe x1 5.1 Channel
+Creative Labs Sound Blaster Audigy Fx V2 PCIe x1 5.1 Channel 24-bit 192 kHz
+Creative Labs Recon3D PCIe x1 24-bit 96 kHz
+StarTech PCISOUND5CH PCI 5.1 Channel 24-bit 48 kHz
+StarTech PCISOUND4CH PCI 4.0 Channel 16-bit 48 kHz
+ASUS Essence STX II PCIe x1 7.1 Channel 24-bit 192 kHz
+Creative Labs Sound Blaster Audigy Fx 24-bit 192 kHz PCIe x1 5.1 Channel
+Vantec UGT-S100 PCI 7.1 Channel 48 kHz
+Creative Labs Sound Blaster AE-7 PCIe x1 5.1 Channel 32-bit 384 kHz
+Asus STRIX RAID DLX 24-bit 192 kHz PCIe x1 7.1 Channel
+HT Omega eClaro PCIe x1 7.1 Channel 24-bit 192 kHz
+Asus Xonar DX PCIe x1 7.1 Channel 24-bit 192 kHz
+SIIG LP-000022-S2 PCI 5.1 Channel 24-bit 96 kHz
+Creative Labs Sound Blaster Z PCIe x1 5.1 Channel 24-bit 192 kHz
+HT Omega CLARO II PCI 7.1 Channel 24-bit 192 kHz
+Rosewill RC-702 PCI 7.1 Channel 16-bit 96 kHz
+EVGA NU Audio Pro 32-bit 384 kHz PCIe x1 2.0 Channel
+Creative Labs Sound Blaster Z SE PCIe x1 5.1 Channel 24-bit 192 kHz
+Creative Labs Sound Blaster Z OEM PCIe x1 5.1 Channel 24-bit 192 kHz
+Creative Labs Sound Blaster Audigy SE OEM 24-bit 96 kHz PCI 7.1 Channel
+Creative Labs Sound Blaster X-Fi Titanium HD 24-bit 96 kHz PCIe x1 7.1 Channel
+Syba SD-PEX63034 PCIe x1 7.1 Channel 24-bit 48 kHz
+M-Audio Audiophile 192 PCI 4.0 Channel 24-bit 192 kHz
+Creative Labs Sound Blaster Audigy2 ZS 24-bit 192 kHz Sound Card
+Creative Labs Sound Blaster Z w/Shield 24-bit 192 kHz PCIe x1 5.1 Channel
+Asus Xonar Phoebus 24-bit 96 kHz Sound Card
+Creative Labs Sound Blaster Audigy SE 24-bit 96 kHz PCI 7.1 Channel
+HT Omega eClaro 24-bit 192 kHz Sound Card
+Creative Labs Sound Blaster Audigy Rx 24-bit 192 kHz PCIe x1 7.1 Channel
+M-Audio US41500C PCI 2.0 Channel 24-bit 96 kHz
+Creative Labs Sound BlasterX AE-5 PCIe x1 5.1 Channel 32-bit 384 kHz
+Creative Labs ZXR PCIe x1 5.1 Channel 24-bit 192 kHz
+Creative Labs SB X-Fi Xtreme Audio 24-bit 96 kHz PCIe x1 7.1 Channel
+Asus Xonar Essence ST 24-bit 192 kHz PCI 7.1 Channel
+EVGA NU 24-bit 192 kHz PCIe x1 5.1 Channel
+Creative Labs Sound BlasterX AE-5 Plus Pure PCIe x1 5.1 Channel 32-bit 384 kHz

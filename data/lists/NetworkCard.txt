@@ -1,0 +1,178 @@
+StarTech ST1000SPEX Gigabit Ethernet PCIe x1
+StarTech ST1000SPEX2L Gigabit Ethernet PCIe x1
+EDUP EP-9602GS Gigabit Ethernet PCIe x1
+Tripp Lite U436-000-GB Gigabit Ethernet USB Type-C Network Adapter
+Netgear GA311 Gigabit Ethernet PCI Network Adapter
+Intel E1G44ET2BLK 4 x Gigabit Ethernet PCIe x4
+Intel X540T1 10 Gb/s Ethernet PCIe x8
+Intel EXPI9301CT Gigabit Ethernet PCIe x1
+SIIG CN-GP4111-S1 4 x Gigabit Ethernet PCIe x4
+Syba SY-ADA24040 Gigabit Ethernet USB Type-A
+Syba SD-PEX24055 10 Gb/s Ethernet PCIe x4
+StarTech ST10GSPEXNB 10 Gb/s Ethernet PCIe x4
+TP-Link TG-3468 Gigabit Ethernet PCIe x1 Network Adapter
+StarTech ST3300U3S Gigabit Ethernet USB 3.2 Gen 1
+QNAP QXG-2G1T-I225 2.5 Gb/s Ethernet PCIe x1
+SIIG CN-GP1021-S3 Gigabit Ethernet PCIe x1
+StarTech ST1000BT32 Gigabit Ethernet PCI Network Adapter
+Intel E10G42BT 2 x 10 Gb/s Ethernet PCIe x8
+QNAP QXG5G1T111C 5 Gb/s Ethernet PCIe x1
+TP-Link UE300 Gigabit Ethernet USB Type-A
+Syba SY-ADA24029 Gigabit Ethernet USB Type-A
+Gigabyte GC-AQC113C 10G 10 Gb/s Ethernet PCIe x4
+StarTech USB31000SPTW Gigabit Ethernet USB Type-A
+Intel E1G44ET2 4 x Gigabit Ethernet PCIe x4
+Intel X540-T2 2 x 10 Gb/s 10Gigabit Ethernet PCIe x8
+Intel PWLA8391GTLBLK Gigabit Ethernet PCI Network Adapter
+Plugable USB3-E1000 Gigabit Ethernet USB Type-A
+SIIG CN-GP1011-S3 Gigabit Ethernet PCI
+StarTech PEX100S 100 Mb/s Ethernet PCIe x1
+StarTech ST1000SPEXD2 2 x Gigabit Ethernet PCIe x1 Network Adapter
+Monoprice 112909 Gigabit Ethernet USB Type-C
+Rosewill RC-402 100 Mb/s Ethernet PCI
+StarTech ST1000SPEXD2 2 x Gigabit Ethernet PCIe x1
+Edimax EU-4306 Gigabit Ethernet USB Type-A 3.2 Gen 1
+QLogic QLE3242-CU-CK 2 x 10 Gb/s Ethernet PCIe x8
+SIIG CN-GP2011-S1 2 x Gigabit Ethernet PCIe x1
+Intel PWLA8492MTBLK5 2 x Gigabit Ethernet PCI-X
+Rosewill RC-401-EX Gigabit Ethernet PCIe x1
+StarTech USB32000SPT 2 x Gigabit Ethernet USB Type-A
+D-Link DXE-820T 2 x 10 Gb/s Ethernet PCIe x8
+Plugable USBC-E1000 Gigabit Ethernet USB Type-C 3.2 Gen 1
+StarTech ST10000SPEX 10 Gb/s Ethernet PCIe x4
+SIIG LB-GE0611-S1 2.5 Gb/s Ethernet PCIe x1
+SIIG JU-NE0711-S1 Gigabit Ethernet USB Type-A Network Adapter
+D-Link DGE-530T Gigabit Ethernet PCI
+Asus XG-C100C 10 Gb/s Ethernet PCIe x4
+SIIG LB-GE0014-S1 2 x Gigabit Ethernet PCIe x4
+SIIG LB-GE0211-S1 10 Gb/s Ethernet PCIe x4
+Acer NP.OTH11.005 10 Mb/s Ethernet USB Type-A 2.0
+D-Link DUB-E100 100 Mb/s Ethernet USB Type-A Network Adapter
+Intel E1G42ET 2 x Gigabit Ethernet PCIe x4
+StarTech ST10GSPEXNDP 2 x 10 Gb/s Ethernet PCIe x8
+D-Link DGE-560T Gigabit Ethernet PCIe x1
+Syba SY-HUB24047 4 x Gigabit Ethernet USB Type-A 3.2 Gen 1
+StarTech ST1000SPEXD3 2 x Gigabit Ethernet PCIe x1
+Gigabyte GC-AQC107 10 Gb/s Ethernet PCIe x4
+Intel X710-T2L 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter
+Intel E1G44HTBLK 4 x Gigabit Ethernet PCIe x4 Network Adapter
+Rosewill RNG-408U Gigabit Ethernet USB Type-C Network Adapter
+Intel EXPI9402PTG2P20 2 x Gigabit Ethernet PCIe x4
+Syba SY-PEX24045 4 x Gigabit Ethernet PCIe x4
+Supermicro AOC-SG-i2 2 x Gigabit Ethernet PCIe x4
+StarTech USB21000S2 Gigabit Ethernet USB Type-A
+Syba SD-PEX24009 Gigabit Ethernet PCIe x1 Network Adapter
+Intel EXPI9404PTLBLK 4 x Gigabit Ethernet PCIe x4
+SIIG CN-GP4011-S1 4 x Gigabit Ethernet PCIe x4
+Intel PWLA8490MTBLK Gigabit Ethernet PCI-X
+Rosewill RNF-405U 100 Mb/s Ethernet USB Type-A
+StarTech USB31000SW Gigabit Ethernet USB Type-A 3.2 Gen 1
+StarTech USB31000SPTB Gigabit Ethernet USB Type-A
+Syba SY-PEX24028 2 x Gigabit Ethernet PCIe x1
+TRENDnet TEG-PCITXR Gigabit Ethernet PCI
+TRENDnet TEG-10GECTX 10 Gigabit PCIe Network Adapter 10 Gb/s Ethernet PCIe x4
+Rosewill RC-400-LX Gigabit Ethernet PCI
+Asus ROG AREION 10 Gb/s Ethernet PCIe x4
+Linksys USB3GIG Gigabit Ethernet USB Type-A 3.2 Gen 1
+Intel E1G44HTBLK 4 x Gigabit Ethernet PCIe x4 Network Adapter
+Rosewill RNG-406U Gigabit Ethernet USB Type-A
+SIIG JU-NE0621-S2 Gigabit Ethernet USB Type-A 3.2 Gen 1
+TP-Link UE306 Gigabit Ethernet USB Type-A 3.2 Gen 1
+SIIG JU-NE0511-S1 Gigabit Ethernet USB Type-A 3.2 Gen 1
+Syba SY-PEX24030 Gigabit Ethernet PCIe x1
+TP-Link UE305 Gigabit Ethernet USB Type-A 3.2 Gen 1
+StarTech ST100S 100 Mb/s Ethernet PCI
+StarTech ST1000SPEX42 4 x Gigabit Ethernet PCIe x4
+StarTech ST1000BT32 Gigabit Ethernet PCI
+StarTech ST1000SPEX4 4 x Gigabit Ethernet PCIe x4
+StarTech USB31000NDS Gigabit Ethernet USB Type-A
+Intel PWLA8391GTLBLK Gigabit Ethernet PCI
+StarTech ST2000PEXPSE 2 x Gigabit Ethernet PCIe x1 Network Adapter
+D-Link DUB-E100 100 Mb/s Ethernet USB Type-A Network Adapter
+SIIG JU-NE0711-S1 Gigabit Ethernet USB Type-A 3.2 Gen 1
+StarTech ST2GPEX 2.5 Gb/s Ethernet PCIe x1
+StarTech USB31000S Gigabit Ethernet USB Type-A 3.2 Gen 1
+Intel EXPI9402PTBLK-1PK 2 x Gigabit Ethernet PCIe x4
+Intel PWLA8391GT Gigabit Ethernet PCI
+TP-Link TG-3269 Gigabit Ethernet PCI
+Rosewill RC-404 Gigabit Ethernet PCI
+Belkin B2B145-BLK Gigabit Ethernet USB Type-C
+Supermicro AOC-STG-i2T 2 x 10 Gb/s Ethernet PCIe x8
+Intel EXPI9404PTL 4 x Gigabit Ethernet PCIe x4
+Rosewill RNG-408U Gigabit Ethernet USB Type-C 3.2 Gen 1
+Syba SI-ADA24037 Gigabit Ethernet USB Type-A
+Intel X520-DA1 10 Gb/s Ethernet PCIe x8 Network Adapter
+StarTech USB21000S2 Gigabit Ethernet USB Type-A Network Adapter
+Intel X520-T2 10 Gb/s Gigabit Ethernet PCIe x8
+Intel I226T1 2.5 Gb/s Ethernet PCIe x1
+Intel EXPI9301CTBLK Gigabit Ethernet PCIe x1
+QNAP QXG-10G1T 10 Gb/s Ethernet PCIe x4
+Edimax EN-9130TXL 100 Mb/s Ethernet PCI
+Syba SY-ADA24027 100 Mb/s Ethernet USB Type-A
+Supermicro SGP-i4 4 x Gigabit Ethernet PCIe x4
+Edimax EU-4208 100 Mb/s Ethernet USB Type-A
+VisionTek Bigfoot Killer 2100 Gigabit Ethernet PCIe x1
+V7 V7UCRJ45-BLK-1N Gigabit Ethernet USB Type-C
+Intel PWLA8492MT 2 x Gigabit Ethernet PCI-X
+Intel E1G42ETBLK 2 x Gigabit Ethernet PCIe x4 Network Adapter
+Gigabyte GC-AQC107 10 Gb/s Ethernet PCIe x4 Network Adapter
+Tripp Lite U436-06N-2P5 2.5 Gb/s Ethernet USB Type-C
+Syba SI-PEX24042 4 x Gigabit Ethernet PCIe x1
+Intel X710-T2L 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter
+SIIG CN-GP1111-S1 2 x Gigabit Ethernet PCIe x4
+TRENDnet TEG-25GECTX 2.5 Gb/s Ethernet PCIe x1
+Rosewill RC-411 Gigabit Ethernet PCIe x1
+Belkin F2CU040btBLK Gigabit Ethernet USB Type-C
+Syba SD-PEX24009 Gigabit Ethernet PCIe x1
+StarTech ST10GSPEXNB2 10 Gb/s Ethernet PCIe x2
+Intel E1G42ETBLK 2 x Gigabit Ethernet PCIe x4 Network Adapter
+SIIG CN-GP1011-S3 Gigabit Ethernet PCI Network Adapter
+StarTech ST2000PEXPSE 2 x Gigabit Ethernet PCIe x1 Network Adapter
+Edimax EN-9320TX-E 10 Gb/s Ethernet PCIe x4
+Syba SY-ADA24024 100 Mb/s Ethernet USB Type-A 2.0
+Lenovo 4X90E51405 Gigabit Ethernet USB Type-A 3.2 Gen 1
+Intel X520-DA1 10 Gb/s Ethernet PCIe x8 Network Adapter
+Netgear GA311 Gigabit Ethernet PCI Network Adapter
+HP E0X95AA Gigabit Ethernet PCIe x1
+D-Link DFE530TX+ 100 Mb/s Ethernet PCI Network Adapter
+D-Link DUB-1312 Gigabit Ethernet USB Type-A 3.2 Gen 1
+Intel PWLA8391GTBLK-1PK Gigabit Ethernet PCI
+Syba SY-PEX24056 10 Gb/s Ethernet PCIe x4
+TP-Link UE300C Gigabit Ethernet USB Type-C
+Belkin F4U047-RS 100 Mb/s Ethernet USB Type-A
+Asus USB-C2500 2.5 Gb/s Ethernet USB Type-A 3.2 Gen 1
+TP-Link TX401 10 Gb/s Ethernet PCIe x4
+Intel EXPI9402PT 2x Gigabit Ethernet PCIe x4
+Rosewill RC-400 Gigabit Ethernet PCI
+Rosewill RNG-407-Dual 2 x Gigabit Ethernet PCIe x1
+Syba SD-PEX24065 2.5 Gb/s Ethernet PCIe x1
+SIIG LB-GE0311-S1 2 x 10 Gb/s Ethernet PCIe x8
+TP-Link TX201 2.5 Gb/s Ethernet PCIe x1
+StarTech USB31000S2 Gigabit Ethernet USB Type-A
+TP-Link TF-3239DL 100 Mb/s Ethernet PCI
+Tripp Lite U436-000-GB Gigabit Ethernet USB Type-C Network Adapter
+D-Link DFE530TX+ 100 Mb/s Ethernet PCI Network Adapter
+Belkin F5D5000 100 Mb/s Ethernet PCI
+Cisco N2XX-ABPCI03-M3= 4 x Gigabit Ethernet PCIe x4
+Asus PCE-C2500 100 Mb/s Ethernet PCIe x1
+Lenovo 7ZT7A00482 2 x Gigabit Ethernet PCIe x1
+StarTech US2GC30 2.5 Gb/s Ethernet USB Type-C
+Rosewill RC-NIC416Dual 2 x 10 Gb/s Ethernet PCIe x4
+Syba SD-ADA24032 Gigabit Ethernet USB Type-A
+TP-Link TG-3468 Gigabit Ethernet PCIe x1
+Rosewill RC-404 Gigabit Ethernet PCI Network Adapter
+Asus NX1101 Gigabit Ethernet PCI
+Syba SD-PEX24066 2 x 2.5 Gb/s Ethernet PCIe x1
+TRENDnet TUC-ET2G 2.5 Gb/s Ethernet USB Type-C 3.2 Gen 1
+StarTech ST10GPEXNDPI 2 x 10 Gb/s Ethernet PCIe x4
+Intel EXPI9404PTLBLK-1PK 4 x Gigabit Ethernet PCIe x4
+Rosewill RC-20001 2.5 Gb/s Ethernet PCIe x1
+Syba SY-ADA24005 100 Mb/s Ethernet Moschip MCS7832 Chipset USB Type-A 2.0
+QNAP QXG2G2TI225 2 x 2.5 Gb/s Ethernet PCIe x2
+StarTech ST1000SPEX2 Gigabit Ethernet PCIe x1
+Intel PWLA8391GTBLK Gigabit Ethernet PCI
+Intel E1G44HT 4 x Gigabit Ethernet with Intel 82580 Processor PCIe x4
+TRENDnet TE100-PCIWN 100 Mb/s Ethernet PCI
+Intel X550-T2 2 x 10 Gb/s Ethernet PCIe x4
+StarTech ST10GSPEXNDP2 2 x 10 Gb/s Ethernet PCIe x4
+Rosewill RC-400-LX Gigabit Ethernet PCI Network Adapter
